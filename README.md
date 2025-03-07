@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Project Description
+
+다음 사항들을 포함한 Next.js(14+) 기본 리포지토리이며, 재사용을 고려하여 설계된 프로젝트입니다.
+
+- Automated Testing Modules(custom)
+- eslint, eslint-config-next, eslint-plugin-prettier, eslint-config-prettier, prettier
+- @tanstack/react-query
+- @apollo/client graphql
+- next-seo
+
+---
 
 ## Getting Started
 
